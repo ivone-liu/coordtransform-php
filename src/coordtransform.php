@@ -1,5 +1,7 @@
 <?php
 
+namespace Coords;
+
 /**
  * Class Rectangle
  */

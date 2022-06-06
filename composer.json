@@ -1,0 +1,22 @@
+{
+  "name": "ivone/coordtransform-php",
+  "description": "坐标转换",
+  "keywords": ["百度地图","坐标"],
+  "authors": [
+    {
+      "name": "ivone",
+      "email": "i@ivone.me",
+      "homepage": "https://www.ivone.me",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Coords\\": "src/"
+    }
+  }
+}
